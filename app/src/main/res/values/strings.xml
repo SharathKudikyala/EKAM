@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EKAM</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_mobile_number">Mobile Number</string>
+    <string name="hint_city">City</string>
+    <string name="hint_country">Country</string>
+    <string name="register">Register</string>
+    <string name="err_msg_email">Invalid Email</string>
+    <string name="err_msg_first_name">Please enter First Name</string>
+    <string name="err_msg_mobile_no">Invalid Mobile number</string>
+    <string name="err_msg_city">Please enter City</string>
+    <string name="err_msg_country">Please enter country</string>
+    <string name="verify_mobile">Verify Mobile</string>
+    <string name="req_mobile_number">Plese enter your mobile number</string>
+    <string name="verify">Verify</string>
+</resources>

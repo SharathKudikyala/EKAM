@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:background="@color/colorWhite"
+    android:layout_margin="@dimen/_8dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter the code you received"
+        android:layout_margin="@dimen/_8dp"
+        android:textColor="@color/colorPrimary"/>
+    <EditText
+        android:id="@+id/edtOTP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="XXXXXX"
+        android:inputType="number"
+        android:maxLength="6"
+        android:layout_marginBottom="@dimen/_8dp" />
+
+    <Button
+        android:id="@+id/btnProceed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:theme="@style/PrimaryButton"
+        android:text="Proceed" />
+
+</LinearLayout>

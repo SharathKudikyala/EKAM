@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "924771817989",
+    "firebase_url": "https://ekam-348a3.firebaseio.com",
+    "project_id": "ekam-348a3",
+    "storage_bucket": "ekam-348a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924771817989:android:e118395f615f2955",
+        "android_client_info": {
+          "package_name": "com.ekam.sharath.ekam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924771817989-llfkogvb2o7s8ujgbm4qrs1ri3r3v7kb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekam.sharath.ekam",
+            "certificate_hash": "4384d968edd6e91c112070070a9571d4e21f7c2a"
+          }
+        },
+        {
+          "client_id": "924771817989-vuts736vsbpgt7ni9s41jtf16of68s54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRD9qOAhTHsKdOiTbIPgbhzg9Q5QIjJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924771817989-vuts736vsbpgt7ni9s41jtf16of68s54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
